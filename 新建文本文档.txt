@@ -1,0 +1,26 @@
+手把手教你搭建一个中式菜谱知识图谱可视化系统：
+	https://blog.csdn.net/ngl567/article/details/106174079?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-6.baidujs
+
+菜哥学知识图谱（通过“基于医疗知识图谱的问答系统”）：
+	https://blog.csdn.net/weixin_40539807/article/details/105691219?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-12.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-12.baidujs
+
+
+医疗QA
+	https://github.com/liuhuanyong/QASystemOnMedicalKG
+
+	注意因果判断部分：https://blog.csdn.net/u012343685/article/details/88942660?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242
+	（https://github.com/liuhuanyong），https://github.com/liuhuanyong/ZhidaoChatbot
+
+思路：
+
+数据库 <-----> 问题 -----> 问题拆解及分类 ----->  数据库匹配 -----> 回答
+
+
+
+细胞----疾病关系：CREATE  (n:CervicalCell )-[r:maybe]->(d:Disease{name:'宫颈癌'})
+
+
+聊天界面：https://github.com/baiyuliang/Qrobot_Vue
+
+
+
