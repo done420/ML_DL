@@ -1,0 +1,44 @@
+{
+    "links": [
+        {
+            "relation": "选材",
+            "source": "血细胞",
+            "target": "红细胞",
+            "value": "3"
+        },
+        {
+            "relation": "选材",
+            "source": "阴性细胞",
+            "target": "表层细胞",
+            "value": "3"
+        },
+        {
+            "relation": "选材",
+            "source": "低度病变",
+            "target": "MLD",
+            "value": "3"
+        }
+    ],
+    "nodes":[
+        {
+            "class": "TCT细胞",
+            "group": "1",
+            "id": "血细胞",
+            "size": "10"
+        },
+
+        {
+            "class": "TCT细胞",
+            "group": "1",
+            "id": "表层细胞",
+            "size": "10"
+        },
+        {
+            "class": "TCT细胞",
+            "group": "1",
+            "id": "MLD",
+            "size": "10"
+        }
+
+    ]
+}
