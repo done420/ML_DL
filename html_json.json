@@ -1,23 +1,23 @@
 {
     "links": [
         {
-            "relation": "包括",
+            "relation": "选材",
             "source": "血细胞",
             "target": "红细胞",
             "value": "3"
         },
         {
-            "relation": "包括",
+            "relation": "选材",
             "source": "阴性细胞",
             "target": "表层细胞",
             "value": "3"
         },
         {
-            "relation": "包括",
+            "relation": "选材",
             "source": "低度病变",
             "target": "MLD",
             "value": "3"
-        },
+        }
     ],
     "nodes":[
         {
@@ -35,7 +35,7 @@
         },
         {
             "class": "TCT细胞",
-            "group": "1",
+            "group": "2",
             "id": "MLD",
             "size": "10"
         }
