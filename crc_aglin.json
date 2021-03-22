@@ -335,6 +335,342 @@
    "class": "症状",
    "group": 1,
    "size": 20
+  },
+  {
+   "id": "氟尿嘧啶注射液",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "甲氨蝶呤片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "艾迪注射液",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "消癌平片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "消癌平胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "重组人干扰素α2а栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "羟基脲片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "复方斑蝥胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "消癌平糖浆",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "消癌平口服液",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "六甲蜜胺胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "苯丁酸氮芥片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "依托泊苷软胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "注射用香菇多糖",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "注射用甲氨蝶呤",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "复方环磷酰胺片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "醋酸甲地孕酮分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "注射用盐酸平阳霉素",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "头孢克肟胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "罗红霉素胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "三味清热止痒洗剂",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阿莫西林颗粒",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "司帕沙星片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "盐酸左氧氟沙星胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "依托红霉素片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "头孢呋辛酯胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "罗红霉素分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阿奇霉素干混悬剂",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "金鸡胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "红霉素肠溶胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阿奇霉素分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "复方杏香兔耳风颗粒",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "克拉霉素分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阿奇霉素片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "匹多莫德分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "乳酸左氧氟沙星片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "苦参凝胶",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "植物萃取抑菌剂",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "甲硝唑阴道泡腾片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "妇炎康分散片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "聚维酮碘栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "聚甲酚磺醛溶液",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "硝呋太尔制霉素阴道软胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "乳酸菌阴道胶囊",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "双唑泰栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "双唑泰阴道泡腾片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "聚维酮碘乳膏",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "聚甲酚磺醛栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "原百仙妇炎清栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "聚甲酚磺醛阴道栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "克林霉素磷酸酯阴道泡腾片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "双唑泰泡腾片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "妇炎灵栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈癌栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈癌片",
+   "class": "药物",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "重组人干扰素α2a栓",
+   "class": "药物",
+   "group": 2,
+   "size": 20
   }
  ],
  "links": [
@@ -379,6 +715,56 @@
    "value": 3
   },
   {
+   "source": "宫颈癌",
+   "target": "三合诊",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "碘黄试验",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "细胞角蛋白19片段抗原（CYFRA21-1）",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "吞噬鸡红细胞功能试验",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "阴道镜检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "子宫颈锥形切除术",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "鳞状上皮细胞癌抗原（SCC）",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "鳞状上皮细胞癌抗原",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "C-myc基因（C-myc）",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "癌抗原15-3（CA15-3）",
+   "value": 3
+  },
+  {
    "source": "卵巢癌",
    "target": "绝经",
    "value": 3
@@ -434,6 +820,56 @@
    "value": 3
   },
   {
+   "source": "卵巢癌",
+   "target": "妇科超声检查",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "糖链抗原242",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "α2-妊娠相关蛋白",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "卵巢肿瘤标记",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "糖链抗原15-3",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "糖链抗原125",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "生殖系统肿瘤检查项目",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "腹部平片",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "糖链抗原72-4",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "癌抗原72-4（CA72-4）",
+   "value": 3
+  },
+  {
    "source": "阴道恶性肿瘤",
    "target": "排便困难",
    "value": 3
@@ -469,6 +905,21 @@
    "value": 3
   },
   {
+   "source": "阴道恶性肿瘤",
+   "target": "妇科超声检查",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "腹部CT",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "阴道细胞学检查",
+   "value": 3
+  },
+  {
    "source": "宫颈糜烂",
    "target": "粘膜乳突状生长",
    "value": 3
@@ -491,6 +942,21 @@
   {
    "source": "宫颈糜烂",
    "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "妇科常规检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "阴道镜检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "宫颈分泌物培养",
    "value": 3
   },
   {
@@ -519,6 +985,56 @@
    "value": 3
   },
   {
+   "source": "宫颈炎",
+   "target": "宫颈妇科常规检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "宫腔镜",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "阴道分泌物检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "妇科常规检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "宫颈粘液相合试验",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "解脲脲原体",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "解脲脲原体",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "白带检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "宫颈刮片（TCT）",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "解脲脲原体",
+   "value": 3
+  },
+  {
    "source": "细菌性阴道炎",
    "target": "下体异味",
    "value": 3
@@ -541,6 +1057,46 @@
   {
    "source": "细菌性阴道炎",
    "target": "尿痛",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "阴道分泌物清洁度",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "白带检查",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "电子阴道镜",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "阴道病原体检查",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "阴道分泌物检查",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "胺试验",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "直接涂片检查",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "线索细胞",
    "value": 3
   },
   {
@@ -589,6 +1145,26 @@
    "value": 3
   },
   {
+   "source": "人乳头瘤病毒感染",
+   "target": "血清学反应",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "肠镜",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "内镜检查",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "阴道镜检查",
+   "value": 3
+  },
+  {
    "source": "毛滴虫病",
    "target": "发炎",
    "value": 3
@@ -606,6 +1182,16 @@
   {
    "source": "毛滴虫病",
    "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "阴道分泌物检查",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "阴道毛滴虫检查",
    "value": 3
   },
   {
@@ -629,8 +1215,83 @@
    "value": 3
   },
   {
+   "source": "宫颈腺癌",
+   "target": "阴道镜检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "涂片",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "阴道细胞学检查",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "子宫颈活检",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "血清蛋白结合碘",
+   "value": 3
+  },
+  {
    "source": "宫颈癌",
    "target": "接触性出血",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "三合诊",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "碘黄试验",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "细胞角蛋白19片段抗原（CYFRA21-1）",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "吞噬鸡红细胞功能试验",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "阴道镜检查",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "子宫颈锥形切除术",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "鳞状上皮细胞癌抗原（SCC）",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "鳞状上皮细胞癌抗原",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "C-myc基因（C-myc）",
+   "value": 3
+  },
+  {
+   "source": "接触性出血",
+   "target": "癌抗原15-3（CA15-3）",
    "value": 3
   },
   {
@@ -674,6 +1335,56 @@
    "value": 3
   },
   {
+   "source": "绝经",
+   "target": "妇科超声检查",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "糖链抗原242",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "α2-妊娠相关蛋白",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "卵巢肿瘤标记",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "糖链抗原15-3",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "糖链抗原125",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "生殖系统肿瘤检查项目",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "腹部平片",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "糖链抗原72-4",
+   "value": 3
+  },
+  {
+   "source": "绝经",
+   "target": "癌抗原72-4（CA72-4）",
+   "value": 3
+  },
+  {
    "source": "卵巢癌",
    "target": "绝经后子宫内膜增厚",
    "value": 3
@@ -729,6 +1440,16 @@
    "value": 3
   },
   {
+   "source": "排便困难",
+   "target": "腹部CT",
+   "value": 3
+  },
+  {
+   "source": "排便困难",
+   "target": "阴道细胞学检查",
+   "value": 3
+  },
+  {
    "source": "阴道恶性肿瘤",
    "target": "驻站医",
    "value": 3
@@ -746,6 +1467,16 @@
   {
    "source": "宫颈糜烂",
    "target": "粘膜乳突状生长",
+   "value": 3
+  },
+  {
+   "source": "粘膜乳突状生长",
+   "target": "妇科常规检查",
+   "value": 3
+  },
+  {
+   "source": "粘膜乳突状生长",
+   "target": "宫颈分泌物培养",
    "value": 3
   },
   {
@@ -769,6 +1500,41 @@
    "value": 3
   },
   {
+   "source": "腹部不适",
+   "target": "宫颈妇科常规检查",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "宫腔镜",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "阴道分泌物检查",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "宫颈粘液相合试验",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "解脲脲原体",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "白带检查",
+   "value": 3
+  },
+  {
+   "source": "腹部不适",
+   "target": "宫颈刮片（TCT）",
+   "value": 3
+  },
+  {
    "source": "宫颈炎",
    "target": "脓血性白带",
    "value": 3
@@ -789,6 +1555,36 @@
    "value": 3
   },
   {
+   "source": "下体异味",
+   "target": "阴道分泌物清洁度",
+   "value": 3
+  },
+  {
+   "source": "下体异味",
+   "target": "电子阴道镜",
+   "value": 3
+  },
+  {
+   "source": "下体异味",
+   "target": "阴道病原体检查",
+   "value": 3
+  },
+  {
+   "source": "下体异味",
+   "target": "胺试验",
+   "value": 3
+  },
+  {
+   "source": "下体异味",
+   "target": "直接涂片检查",
+   "value": 3
+  },
+  {
+   "source": "下体异味",
+   "target": "线索细胞",
+   "value": 3
+  },
+  {
    "source": "细菌性阴道炎",
    "target": "下腹疼痛",
    "value": 3
@@ -806,6 +1602,21 @@
   {
    "source": "人乳头瘤病毒感染",
    "target": "斑丘疹",
+   "value": 3
+  },
+  {
+   "source": "斑丘疹",
+   "target": "血清学反应",
+   "value": 3
+  },
+  {
+   "source": "斑丘疹",
+   "target": "肠镜",
+   "value": 3
+  },
+  {
+   "source": "斑丘疹",
+   "target": "内镜检查",
    "value": 3
   },
   {
@@ -854,6 +1665,11 @@
    "value": 3
   },
   {
+   "source": "发炎",
+   "target": "阴道毛滴虫检查",
+   "value": 3
+  },
+  {
    "source": "毛滴虫病",
    "target": "急性阴道感染",
    "value": 3
@@ -861,6 +1677,781 @@
   {
    "source": "毛滴虫病",
    "target": "阴道脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "氟尿嘧啶注射液",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "甲氨蝶呤片",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "艾迪注射液",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "消癌平片",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "消癌平胶囊",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "重组人干扰素α2а栓",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "羟基脲片",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "复方斑蝥胶囊",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "消癌平糖浆",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "消癌平口服液",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "接触性出血",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "尿频",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "里急后重",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "便秘",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "肛门坠胀",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "消瘦",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "鳞状细胞化生",
+   "value": 3
+  },
+  {
+   "source": "氟尿嘧啶注射液",
+   "target": "尿急",
+   "value": 3
+  },
+  {
+   "source": "甲氨蝶呤片",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "艾迪注射液",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "消癌平片",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "消癌平胶囊",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "重组人干扰素α2а栓",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "羟基脲片",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "复方斑蝥胶囊",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "消癌平糖浆",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "消癌平口服液",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "六甲蜜胺胶囊",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "苯丁酸氮芥片",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "依托泊苷软胶囊",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "注射用香菇多糖",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "注射用甲氨蝶呤",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "复方环磷酰胺片",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "醋酸甲地孕酮分散片",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "绝经",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "绝经后子宫内膜增厚",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "恶病质",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "阴道转移",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "食欲不振",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "腹水",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "运动性闭经",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "乏力",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "卵巢功能障碍",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "栗东",
+   "value": 3
+  },
+  {
+   "source": "六甲蜜胺胶囊",
+   "target": "胀痛",
+   "value": 3
+  },
+  {
+   "source": "苯丁酸氮芥片",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "依托泊苷软胶囊",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "注射用香菇多糖",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "注射用甲氨蝶呤",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "复方环磷酰胺片",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "醋酸甲地孕酮分散片",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "阴道恶性肿瘤",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "注射用盐酸平阳霉素",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "排便困难",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "驻站医",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "阴道分泌物增多",
+   "value": 3
+  },
+  {
+   "source": "注射用盐酸平阳霉素",
+   "target": "直肠疼痛",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "头孢克肟胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "罗红霉素胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "三味清热止痒洗剂",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "阿莫西林颗粒",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "司帕沙星片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "盐酸左氧氟沙星胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "依托红霉素片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "头孢呋辛酯胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "罗红霉素分散片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "阿奇霉素干混悬剂",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "金鸡胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "红霉素肠溶胶囊",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "阿奇霉素分散片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "复方杏香兔耳风颗粒",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "克拉霉素分散片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "阿奇霉素片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "匹多莫德分散片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "乳酸左氧氟沙星片",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "苦参凝胶",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "粘膜乳突状生长",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "鳞状上皮",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "头孢克肟胶囊",
+   "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "罗红霉素胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "三味清热止痒洗剂",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "阿莫西林颗粒",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "司帕沙星片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "盐酸左氧氟沙星胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "依托红霉素片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "头孢呋辛酯胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "罗红霉素分散片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "阿奇霉素干混悬剂",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "金鸡胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "红霉素肠溶胶囊",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "阿奇霉素分散片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "复方杏香兔耳风颗粒",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "克拉霉素分散片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "阿奇霉素片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "匹多莫德分散片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "乳酸左氧氟沙星片",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "苦参凝胶",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "植物萃取抑菌剂",
+   "target": "毛滴虫病",
+   "value": 3
+  },
+  {
+   "source": "植物萃取抑菌剂",
+   "target": "植物萃取抑菌剂",
+   "value": 3
+  },
+  {
+   "source": "植物萃取抑菌剂",
+   "target": "发炎",
+   "value": 3
+  },
+  {
+   "source": "植物萃取抑菌剂",
+   "target": "急性阴道感染",
+   "value": 3
+  },
+  {
+   "source": "植物萃取抑菌剂",
+   "target": "阴道脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "甲硝唑阴道泡腾片",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "妇炎康分散片",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "聚维酮碘栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "聚甲酚磺醛溶液",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "硝呋太尔制霉素阴道软胶囊",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "乳酸菌阴道胶囊",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "双唑泰栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "双唑泰阴道泡腾片",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "聚维酮碘乳膏",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "聚甲酚磺醛栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "原百仙妇炎清栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "聚甲酚磺醛阴道栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "克林霉素磷酸酯阴道泡腾片",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "双唑泰泡腾片",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "妇炎灵栓",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "下体异味",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "下腹疼痛",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "阴道异味",
+   "value": 3
+  },
+  {
+   "source": "甲硝唑阴道泡腾片",
+   "target": "尿痛",
+   "value": 3
+  },
+  {
+   "source": "妇炎康分散片",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "聚维酮碘栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "聚甲酚磺醛溶液",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "硝呋太尔制霉素阴道软胶囊",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "乳酸菌阴道胶囊",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "双唑泰栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "双唑泰阴道泡腾片",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "聚维酮碘乳膏",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "聚甲酚磺醛栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "原百仙妇炎清栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "聚甲酚磺醛阴道栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "克林霉素磷酸酯阴道泡腾片",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "双唑泰泡腾片",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "妇炎灵栓",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "人乳头瘤病毒感染",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "宫颈癌栓",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "宫颈癌片",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "斑丘疹",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "点状出血",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "声音嘶哑",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "结节",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "呼吸道阻塞",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "鳞状细胞癌",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "角膜炎",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "窒息",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌栓",
+   "target": "湿疣",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌片",
+   "target": "人乳头瘤病毒感染",
+   "value": 3
+  },
+  {
+   "source": "重组人干扰素α2a栓",
+   "target": "宫颈腺癌",
+   "value": 3
+  },
+  {
+   "source": "重组人干扰素α2a栓",
+   "target": "重组人干扰素α2a栓",
    "value": 3
   }
  ]
