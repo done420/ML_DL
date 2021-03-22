@@ -1,0 +1,2888 @@
+{
+ "nodes": [
+  {
+   "id": "宫颈癌",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢癌",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道恶性肿瘤",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "宫颈糜烂",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "宫颈炎",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "细菌性阴道炎",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "人乳头瘤病毒感染",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "毛滴虫病",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "宫颈腺癌",
+   "class": "疾病",
+   "group": 0,
+   "size": 20
+  },
+  {
+   "id": "接触性出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿频",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "里急后重",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "便秘",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "肛门坠胀",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "消瘦",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞化生",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿急",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "绝经后子宫内膜增厚",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "恶病质",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道转移",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "食欲不振",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹水",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "运动性闭经",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "乏力",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "卵巢功能障碍",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "栗东",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "胀痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "排便困难",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "驻站医",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物增多",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "直肠疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "粘膜乳突状生长",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "瘙痒",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腹部不适",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "脓血性白带",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "腰酸",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下体异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "下腹疼痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道异味",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "尿痛",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "斑丘疹",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "点状出血",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "声音嘶哑",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "结节",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "呼吸道阻塞",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "鳞状细胞癌",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "角膜炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "窒息",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "湿疣",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "发炎",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "急性阴道感染",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  },
+  {
+   "id": "阴道脓性分泌物",
+   "class": "症状",
+   "group": 1,
+   "size": 20
+  }
+ ],
+ "links": [
+  {
+   "source": "宫颈癌",
+   "target": "接触性出血",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "尿频",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "里急后重",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "便秘",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "肛门坠胀",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "消瘦",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "鳞状细胞化生",
+   "value": 3
+  },
+  {
+   "source": "宫颈癌",
+   "target": "尿急",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "绝经",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "绝经后子宫内膜增厚",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "恶病质",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "阴道转移",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "食欲不振",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "腹水",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "运动性闭经",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "乏力",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "卵巢功能障碍",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "栗东",
+   "value": 3
+  },
+  {
+   "source": "卵巢癌",
+   "target": "胀痛",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "排便困难",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "驻站医",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "阴道分泌物增多",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "直肠疼痛",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "里急后重",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "便秘",
+   "value": 3
+  },
+  {
+   "source": "阴道恶性肿瘤",
+   "target": "肛门坠胀",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "粘膜乳突状生长",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "尿频",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "鳞状上皮",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "宫颈糜烂",
+   "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "腹部不适",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "脓血性白带",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "腰酸",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "下腹痛",
+   "value": 3
+  },
+  {
+   "source": "宫颈炎",
+   "target": "鳞状细胞化生",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "下体异味",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "下腹疼痛",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "阴道异味",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "细菌性阴道炎",
+   "target": "尿痛",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "斑丘疹",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "点状出血",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "声音嘶哑",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "结节",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "呼吸道阻塞",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "鳞状细胞癌",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "角膜炎",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "窒息",
+   "value": 3
+  },
+  {
+   "source": "人乳头瘤病毒感染",
+   "target": "湿疣",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "发炎",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "急性阴道感染",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "阴道脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "毛滴虫病",
+   "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "绝经",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "肛门坠胀",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "阴道分泌物增多",
+   "value": 3
+  },
+  {
+   "source": "宫颈腺癌",
+   "target": "鳞状细胞化生",
+   "value": 3
+  }
+ ]
+}
