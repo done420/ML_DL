@@ -335,6 +335,270 @@
    "class": "症状",
    "group": 1,
    "size": 20
+  },
+  {
+   "id": "三合诊",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "碘黄试验",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "细胞角蛋白19片段抗原（CYFRA21-1）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "吞噬鸡红细胞功能试验",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道镜检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "子宫颈锥形切除术",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮细胞癌抗原（SCC）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "鳞状上皮细胞癌抗原",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "C-myc基因（C-myc）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "癌抗原15-3（CA15-3）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "妇科超声检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "糖链抗原242",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "α2-妊娠相关蛋白",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "卵巢肿瘤标记",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "糖链抗原15-3",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "糖链抗原125",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "生殖系统肿瘤检查项目",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "腹部平片",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "糖链抗原72-4",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "癌抗原72-4（CA72-4）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "腹部CT",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道细胞学检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "妇科常规检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈分泌物培养",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈妇科常规检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫腔镜",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈粘液相合试验",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "解脲脲原体",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "白带检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "宫颈刮片（TCT）",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道分泌物清洁度",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "电子阴道镜",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道病原体检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "胺试验",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "直接涂片检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "线索细胞",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "血清学反应",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "肠镜",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "内镜检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "阴道毛滴虫检查",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "涂片",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "子宫颈活检",
+   "class": "检查",
+   "group": 2,
+   "size": 20
+  },
+  {
+   "id": "血清蛋白结合碘",
+   "class": "检查",
+   "group": 2,
+   "size": 20
   }
  ],
  "links": [
@@ -1341,6 +1605,461 @@
   {
    "source": "毛滴虫病",
    "target": "阴道脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "接触性出血",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "尿频",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "里急后重",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "便秘",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "肛门坠胀",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "消瘦",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "鳞状细胞化生",
+   "value": 3
+  },
+  {
+   "source": "三合诊",
+   "target": "尿急",
+   "value": 3
+  },
+  {
+   "source": "碘黄试验",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "细胞角蛋白19片段抗原（CYFRA21-1）",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "吞噬鸡红细胞功能试验",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "阴道镜检查",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "子宫颈锥形切除术",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "鳞状上皮细胞癌抗原（SCC）",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "鳞状上皮细胞癌抗原",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "C-myc基因（C-myc）",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "癌抗原15-3（CA15-3）",
+   "target": "宫颈癌",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "绝经",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "绝经后子宫内膜增厚",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "恶病质",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "阴道转移",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "食欲不振",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "腹水",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "运动性闭经",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "乏力",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "卵巢功能障碍",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "栗东",
+   "value": 3
+  },
+  {
+   "source": "妇科超声检查",
+   "target": "胀痛",
+   "value": 3
+  },
+  {
+   "source": "糖链抗原242",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "α2-妊娠相关蛋白",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "卵巢肿瘤标记",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "糖链抗原15-3",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "糖链抗原125",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "生殖系统肿瘤检查项目",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "腹部平片",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "糖链抗原72-4",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "癌抗原72-4（CA72-4）",
+   "target": "卵巢癌",
+   "value": 3
+  },
+  {
+   "source": "腹部CT",
+   "target": "阴道恶性肿瘤",
+   "value": 3
+  },
+  {
+   "source": "腹部CT",
+   "target": "排便困难",
+   "value": 3
+  },
+  {
+   "source": "腹部CT",
+   "target": "驻站医",
+   "value": 3
+  },
+  {
+   "source": "腹部CT",
+   "target": "阴道分泌物增多",
+   "value": 3
+  },
+  {
+   "source": "腹部CT",
+   "target": "直肠疼痛",
+   "value": 3
+  },
+  {
+   "source": "阴道细胞学检查",
+   "target": "阴道恶性肿瘤",
+   "value": 3
+  },
+  {
+   "source": "妇科常规检查",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "妇科常规检查",
+   "target": "粘膜乳突状生长",
+   "value": 3
+  },
+  {
+   "source": "妇科常规检查",
+   "target": "鳞状上皮",
+   "value": 3
+  },
+  {
+   "source": "妇科常规检查",
+   "target": "脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "妇科常规检查",
+   "target": "瘙痒",
+   "value": 3
+  },
+  {
+   "source": "宫颈分泌物培养",
+   "target": "宫颈糜烂",
+   "value": 3
+  },
+  {
+   "source": "宫颈妇科常规检查",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "宫颈妇科常规检查",
+   "target": "腹部不适",
+   "value": 3
+  },
+  {
+   "source": "宫颈妇科常规检查",
+   "target": "脓血性白带",
+   "value": 3
+  },
+  {
+   "source": "宫颈妇科常规检查",
+   "target": "腰酸",
+   "value": 3
+  },
+  {
+   "source": "宫颈妇科常规检查",
+   "target": "下腹痛",
+   "value": 3
+  },
+  {
+   "source": "宫腔镜",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物检查",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "宫颈粘液相合试验",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "解脲脲原体",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "白带检查",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "宫颈刮片（TCT）",
+   "target": "宫颈炎",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物清洁度",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物清洁度",
+   "target": "下体异味",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物清洁度",
+   "target": "下腹疼痛",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物清洁度",
+   "target": "阴道异味",
+   "value": 3
+  },
+  {
+   "source": "阴道分泌物清洁度",
+   "target": "尿痛",
+   "value": 3
+  },
+  {
+   "source": "电子阴道镜",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "阴道病原体检查",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "胺试验",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "直接涂片检查",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "线索细胞",
+   "target": "细菌性阴道炎",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "人乳头瘤病毒感染",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "斑丘疹",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "点状出血",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "声音嘶哑",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "结节",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "呼吸道阻塞",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "鳞状细胞癌",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "角膜炎",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "窒息",
+   "value": 3
+  },
+  {
+   "source": "血清学反应",
+   "target": "湿疣",
+   "value": 3
+  },
+  {
+   "source": "肠镜",
+   "target": "人乳头瘤病毒感染",
+   "value": 3
+  },
+  {
+   "source": "内镜检查",
+   "target": "人乳头瘤病毒感染",
+   "value": 3
+  },
+  {
+   "source": "阴道毛滴虫检查",
+   "target": "毛滴虫病",
+   "value": 3
+  },
+  {
+   "source": "阴道毛滴虫检查",
+   "target": "发炎",
+   "value": 3
+  },
+  {
+   "source": "阴道毛滴虫检查",
+   "target": "急性阴道感染",
+   "value": 3
+  },
+  {
+   "source": "阴道毛滴虫检查",
+   "target": "阴道脓性分泌物",
+   "value": 3
+  },
+  {
+   "source": "涂片",
+   "target": "宫颈腺癌",
+   "value": 3
+  },
+  {
+   "source": "子宫颈活检",
+   "target": "宫颈腺癌",
+   "value": 3
+  },
+  {
+   "source": "血清蛋白结合碘",
+   "target": "宫颈腺癌",
    "value": 3
   }
  ]
