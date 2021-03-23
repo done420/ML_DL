@@ -4,937 +4,937 @@
    "id": "宫颈癌",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "卵巢癌",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道恶性肿瘤",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈糜烂",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈炎",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "细菌性阴道炎",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "人乳头瘤病毒感染",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "毛滴虫病",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈腺癌",
    "class": "疾病类别",
    "group": 0,
-   "size": 10
+   "size": 20
   },
   {
    "id": "接触性出血",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "尿频",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "里急后重",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "便秘",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "肛门坠胀",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "消瘦",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "鳞状细胞化生",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "尿急",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "绝经",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "绝经后子宫内膜增厚",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "恶病质",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道转移",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "食欲不振",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "腹水",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "运动性闭经",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "乏力",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "卵巢功能障碍",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "栗东",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "胀痛",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "排便困难",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "驻站医",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道分泌物增多",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "直肠疼痛",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "粘膜乳突状生长",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "鳞状上皮",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "脓性分泌物",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "瘙痒",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "腹部不适",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "脓血性白带",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "腰酸",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "下腹痛",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "下体异味",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "下腹疼痛",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道异味",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "尿痛",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "斑丘疹",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "点状出血",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "声音嘶哑",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "结节",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "呼吸道阻塞",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "鳞状细胞癌",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "角膜炎",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "窒息",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "湿疣",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "发炎",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "急性阴道感染",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道脓性分泌物",
    "class": "关联症状",
    "group": 1,
-   "size": 10
+   "size": 20
   },
   {
    "id": "三合诊",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "碘黄试验",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "细胞角蛋白19片段抗原（CYFRA21-1）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "吞噬鸡红细胞功能试验",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道镜检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "子宫颈锥形切除术",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "鳞状上皮细胞癌抗原（SCC）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "鳞状上皮细胞癌抗原",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "C-myc基因（C-myc）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "癌抗原15-3（CA15-3）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "妇科超声检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "糖链抗原242",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "α2-妊娠相关蛋白",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "卵巢肿瘤标记",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "糖链抗原15-3",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "糖链抗原125",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "生殖系统肿瘤检查项目",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "腹部平片",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "糖链抗原72-4",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "癌抗原72-4（CA72-4）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "腹部CT",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道细胞学检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "妇科常规检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈分泌物培养",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈妇科常规检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫腔镜",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道分泌物检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈粘液相合试验",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "解脲脲原体",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "白带检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈刮片（TCT）",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道分泌物清洁度",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "电子阴道镜",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道病原体检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "胺试验",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "直接涂片检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "线索细胞",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "血清学反应",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "肠镜",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "内镜检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阴道毛滴虫检查",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "涂片",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "子宫颈活检",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "血清蛋白结合碘",
    "class": "检查项目",
    "group": 2,
-   "size": 10
+   "size": 20
   },
   {
    "id": "氟尿嘧啶注射液",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "甲氨蝶呤片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "艾迪注射液",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "消癌平片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "消癌平胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "重组人干扰素α2а栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "羟基脲片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "复方斑蝥胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "消癌平糖浆",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "消癌平口服液",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "六甲蜜胺胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "苯丁酸氮芥片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "依托泊苷软胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "注射用香菇多糖",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "注射用甲氨蝶呤",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "复方环磷酰胺片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "醋酸甲地孕酮分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "注射用盐酸平阳霉素",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "头孢克肟胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "罗红霉素胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "三味清热止痒洗剂",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阿莫西林颗粒",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "司帕沙星片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "盐酸左氧氟沙星胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "依托红霉素片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "头孢呋辛酯胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "罗红霉素分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阿奇霉素干混悬剂",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "金鸡胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "红霉素肠溶胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阿奇霉素分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "复方杏香兔耳风颗粒",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "克拉霉素分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "阿奇霉素片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "匹多莫德分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "乳酸左氧氟沙星片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "苦参凝胶",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "植物萃取抑菌剂",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "甲硝唑阴道泡腾片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "妇炎康分散片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "聚维酮碘栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "聚甲酚磺醛溶液",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "硝呋太尔制霉素阴道软胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "乳酸菌阴道胶囊",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "双唑泰栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "双唑泰阴道泡腾片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "聚维酮碘乳膏",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "聚甲酚磺醛栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "原百仙妇炎清栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "聚甲酚磺醛阴道栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "克林霉素磷酸酯阴道泡腾片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "双唑泰泡腾片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "妇炎灵栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈癌栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "宫颈癌片",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   },
   {
    "id": "重组人干扰素α2a栓",
    "class": "治疗药物",
    "group": 3,
-   "size": 10
+   "size": 20
   }
  ],
  "links": [
